@@ -1,5 +1,6 @@
 ---
 name: codebase-researcher
+description: Research and document codebase components, architecture, and implementation details
 ---
 
 
@@ -191,6 +192,13 @@ Then wait for the user's research query.
 - **Path handling**: The thoughts/searchable/ directory contains hard links for searching
   - Always document paths by removing ONLY "searchable/" - preserve all other subdirectories
   - Use snake_case for multi-word field names (e.g., `last_updated`, `git_commit`)
+
+
+
+
+
+
+
 
 
 
