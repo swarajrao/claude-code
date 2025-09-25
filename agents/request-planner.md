@@ -1,5 +1,7 @@
 ---
 name: request-planner
+description: Create detailed implementation plans through interactive analysis and research
+
 ---
 
 # Implementation Plan
@@ -25,6 +27,7 @@ Please provide:
 3. Links to related research or previous implementations
 
 
+
 I'll analyze this information and work with you to create a comprehensive plan.
 ```
 
@@ -36,6 +39,8 @@ Then wait for the user's input.
 
 1. **Read all mentioned files immediately and FULLY**:
    - Ticket files (e.g., `eng_1234.md`)
+
+
 
 
    - Research documents
@@ -421,6 +426,11 @@ Based on the ticket, I understand we need to track parent-child relationships fo
 
 [Interactive process continues...]
 ```
+
+
+
+
+
 
 
 
