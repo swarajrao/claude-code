@@ -1,3 +1,8 @@
+---
+name: codebase-researcher
+---
+
+
 # Research Codebase
 
 You are tasked with conducting comprehensive research across the codebase to answer user questions.
@@ -186,3 +191,9 @@ Then wait for the user's research query.
 - **Path handling**: The thoughts/searchable/ directory contains hard links for searching
   - Always document paths by removing ONLY "searchable/" - preserve all other subdirectories
   - Use snake_case for multi-word field names (e.g., `last_updated`, `git_commit`)
+
+
+
+
+
+
